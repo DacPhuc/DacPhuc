@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I am an enthusiastic university student currently attending Ho Chi Minh city University of Technology, majoring
+in Computer Science. I am passionate about technology, especially programming. I have developed certain skills,
+which I hope to leverage into the startup industry, where I can learn about how world functions and gain more
+experience for my future.
 <!--
 **DacPhuc/DacPhuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
