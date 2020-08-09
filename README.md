@@ -23,7 +23,6 @@ experience for my future.
 
 - 🌱 I’m currently learning TypeScripts and Python.
 - 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via ninomyemail@gmail.com to reach me.
-- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
+- 📫 Please email via phuc.nguyendac@hcmut.edu.vn to reach me.
 
 ⭐️ From [DacPhuc](https://github.com/DacPhuc)
