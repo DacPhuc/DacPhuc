@@ -21,7 +21,6 @@ experience for my future.
 
 **Current Status Quo**
 
-- 🌱 I’m currently learning TypeScripts and Python.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via phuc.nguyendac@hcmut.edu.vn to reach me.
 
