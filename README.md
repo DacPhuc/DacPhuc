@@ -10,7 +10,7 @@ experience for my future.
 <a href="https://www.linkedin.com/in/phuc-nguyen-dac-14bb85152/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
-<a href="phuc.nguyendac@hcmut.edu.vn">
+<a href="dacphucng0704@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 
