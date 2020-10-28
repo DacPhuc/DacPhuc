@@ -22,6 +22,6 @@ experience for my future.
 **Current Status Quo**
 
 - 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via phuc.nguyendac@hcmut.edu.vn to reach me.
+- 📫 Please email via dacphucng0704@gmail.com to reach me.
 
 ⭐️ From [DacPhuc](https://github.com/DacPhuc)
