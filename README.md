@@ -1,22 +1,39 @@
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />.  
+# Hi there! 👋
 
-### Hi there 👋
+I'm Phuc Nguyen, a 23-year-old full-stack engineer from Vietnam. I'm passionate about building great software and leveraging technology to solve real-world problems.
 
-I am Phuc Nguyen from Viet Nam. I am 23 and passionate about technology, especially programming. I have developed certain skills, which I hope to leverage into the startup industry, where I can learn about how the world functions and gain more experience for my future.
+![GIF of coding](https://media.giphy.com/media/cFdHXXm5GhJsc/source.gif)
 
-<a href="https://www.linkedin.com/in/dacphucng0704/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
-</a>
-<a href="dacphucng0704@gmail.com">
-  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
+## 🔭 What I'm currently working on
 
-<br />
-<br />
+I'm currently working as a full-stack engineer at Employment Hero, where I'm building and maintaining web applications using Ruby on Rails and React. My responsibilities include:
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+- Developing new features and functionality.
+- Improving application performance and scalability.
+- Collaborating with designers, product managers, and other developers to deliver high-quality software.
 
-- 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via dacphucng0704@gmail.com to reach me.
+![GIF of a computer screen with code](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/source.gif)
 
-⭐️ From [DacPhuc](https://github.com/DacPhuc)
+## 🌱 What I'm currently learning
+
+I'm always looking to learn and improve my skills, and these are some of the technologies and tools I'm currently studying:
+
+- Advanced React and Redux concepts.
+- Ruby on Rails best practices and design patterns.
+- DevOps and CI/CD pipelines.
+
+![GIF of someone coding](https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif)
+
+## 📫 How to reach me
+
+If you have any questions or just want to say hi, feel free to send me an email at dacphucng0704@gmail.com. You can also find me on [LinkedIn](https://www.linkedin.com/in/dacphucng0704/)!
+
+![GIF of a hand typing on a keyboard](https://media.giphy.com/media/3o6Zt481isNVuQIg1a/giphy.gif)
+
+## 💬 Fun facts about me
+
+- I love hiking and exploring the great outdoors.
+- I'm a big fan of science fiction movies and books.
+- I speak Vietnamese, English, and a bit of Japanese.
+
+Thanks for stopping by! ⭐️
