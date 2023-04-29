@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Phuc Nguyen, a 23-year-old full-stack engineer from Vietnam. I'm passionate about building great software and leveraging technology to solve real-world problems.
+I'm Phuc Nguyen, a 24-year-old full-stack engineer from Vietnam. I'm passionate about building great software and leveraging technology to solve real-world problems.
 
 ![GIF of coding](https://media.giphy.com/media/cFdHXXm5GhJsc/source.gif)
 
@@ -32,8 +32,8 @@ If you have any questions or just want to say hi, feel free to send me an email 
 
 ## 💬 Fun facts about me
 
-- I love hiking and exploring the great outdoors.
-- I'm a big fan of science fiction movies and books.
-- I speak Vietnamese, English, and a bit of Japanese.
+- I love body building and exploring the great outdoors.
+- I love explore world cuisines.
+- I speak Vietnamese, English.
 
 Thanks for stopping by! ⭐️
